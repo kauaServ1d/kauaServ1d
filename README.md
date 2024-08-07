@@ -1,6 +1,6 @@
 Boas vindas ao meu perfil!👋
 
-Meu nome Kauã Silva 
+Meu nome Kauã Silva. 
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
