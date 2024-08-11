@@ -9,5 +9,5 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 Você pode entrar em contato com eu:
 00001157651094sp@al.educacao.sp.gov.br
 
-![image](https://github.com/user-attachments/assets/d3a7a59f-501a-4156-9a6f-5bac1a639121)
+![image](https://github.com/user-attachments/assets/00f8fd32-85f3-4829-a744-be76a266e2c3)
 
